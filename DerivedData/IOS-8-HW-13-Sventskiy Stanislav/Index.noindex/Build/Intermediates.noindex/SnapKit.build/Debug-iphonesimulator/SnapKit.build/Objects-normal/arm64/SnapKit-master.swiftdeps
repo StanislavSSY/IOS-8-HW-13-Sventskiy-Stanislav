@@ -1,0 +1,79 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d26aa9c6c200df0a3ce49a6acf68904a030c652e7c7c460294e634b01a0b07fa"
+build_start_time: [1680263621, 323505878]
+build_end_time: [1680263622, 612337112]
+inputs:
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/Constraint.swift"
+  : [1680263610, 214824676]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintAttributes.swift"
+  : [1680263610, 214928150]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintConfig.swift"
+  : [1680263610, 215011835]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift"
+  : [1680263610, 215105295]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintDSL.swift"
+  : [1680263610, 215240001]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintDescription.swift"
+  : [1680263610, 215329170]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift"
+  : [1680263610, 215404987]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift"
+  : [1680263610, 215478420]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift"
+  : [1680263610, 215546369]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsets.swift"
+  : [1680263610, 215623855]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintItem.swift"
+  : [1680263610, 215733528]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift"
+  : [1680263610, 215805292]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift"
+  : [1680263610, 215881347]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift"
+  : [1680263610, 216058254]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift"
+  : [1680263610, 216121196]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift"
+  : [1680263610, 216177225]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintMaker.swift"
+  : [1680263610, 216316223]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift"
+  : [1680263610, 216426849]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift"
+  : [1680263610, 216506004]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift"
+  : [1680263610, 216578722]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift"
+  : [1680263610, 216670989]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift"
+  : [1680263610, 216769218]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift"
+  : [1680263610, 216859817]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift"
+  : [1680263610, 216928243]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift"
+  : [1680263610, 216991901]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriority.swift"
+  : [1680263610, 217056989]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift"
+  : [1680263610, 217121601]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift"
+  : [1680263610, 217197895]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelation.swift"
+  : [1680263610, 217280387]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift"
+  : [1680263610, 217376232]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift"
+  : [1680263610, 217447042]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/ConstraintViewDSL.swift"
+  : [1680263610, 217537403]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/Debugging.swift"
+  : [1680263610, 217620849]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraint.swift"
+  : [1680263610, 217716693]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift"
+  : [1680263610, 217813968]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift"
+  : [1680263610, 217903614]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift"
+  : [1680263610, 217973709]

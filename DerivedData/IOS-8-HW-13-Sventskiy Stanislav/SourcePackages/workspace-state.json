@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "snapkit",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/SnapKit/SnapKit.git",
+          "name" : "SnapKit"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "develop",
+            "revision" : "58320fe80522414bf3a7e24c88123581dc586752"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "SnapKit"
+      }
+    ]
+  },
+  "version" : 5
+}

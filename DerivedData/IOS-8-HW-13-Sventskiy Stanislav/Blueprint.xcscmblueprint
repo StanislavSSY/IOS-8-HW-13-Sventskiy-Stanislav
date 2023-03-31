@@ -4,16 +4,23 @@
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "758F629F3E204BF64FB9865E6528D43B3D0DA91B" : 0
+    "758F629F3E204BF64FB9865E6528D43B3D0DA91B" : 0,
+    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BD815F48-09EE-409D-9E5C-0208172DD40E",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "758F629F3E204BF64FB9865E6528D43B3D0DA91B" : "IOS-8-HW-13-Sventskiy%20Stanislav\/"
+    "758F629F3E204BF64FB9865E6528D43B3D0DA91B" : "IOS-8-HW-13-Sventskiy%20Stanislav\/",
+    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : "IOS-8-HW-13-Sventskiy%20Stanislav\/DerivedData\/IOS-8-HW-13-Sventskiy%20Stanislav\/SourcePackages\/checkouts\/SnapKit\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "IOS-8-HW-13-Sventskiy Stanislav",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IOS-8-HW-13-Sventskiy Stanislav.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/stanislavstanislav\/Desktop\/IOS-8-HW-13-Sventskiy\/IOS-8-HW-13-Sventskiy%20Stanislav\/DerivedData\/IOS-8-HW-13-Sventskiy%20Stanislav\/SourcePackages\/repositories\/SnapKit-dd27728c",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3AF18F9C6F5D633BAA0B3F935459E0C777C82047"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/StanislavSSY\/IOS-8-HW-13-Sventskiy-Stanislav.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",

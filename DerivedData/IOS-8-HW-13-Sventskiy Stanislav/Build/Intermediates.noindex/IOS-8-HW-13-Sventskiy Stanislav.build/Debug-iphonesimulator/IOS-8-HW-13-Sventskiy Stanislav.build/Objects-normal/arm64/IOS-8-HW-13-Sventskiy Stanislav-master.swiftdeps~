@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "dc104fb5c63200f6e77bee7a52e50ae7a45f53b4a66e04fdc51c0690bb02ccbb"
+build_start_time: [1680259977, 33690929]
+build_end_time: [1680259977, 115895986]
+inputs:
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/IOS-8-HW-13-Sventskiy Stanislav/Sources/App/AppDelegate.swift"
+  : !private [1680255669, 39469003]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/IOS-8-HW-13-Sventskiy Stanislav/Sources/App/SceneDelegate.swift"
+  : !private [1680255669, 44116497]
+  ? "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/IOS-8-HW-13-Sventskiy Stanislav/Sources/ViewController.swift"
+  : !private [1680255669, 45334577]

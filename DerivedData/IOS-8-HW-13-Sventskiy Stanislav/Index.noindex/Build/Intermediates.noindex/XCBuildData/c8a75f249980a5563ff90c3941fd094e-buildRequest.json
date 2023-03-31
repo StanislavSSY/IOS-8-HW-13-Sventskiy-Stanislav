@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "4101274b05157d5277ec732af0a1790259d8f13cd53f02879fb5ec3d2bdbc8db"
+    }
+  ],
+  "containerPath" : "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/IOS-8-HW-13-Sventskiy Stanislav.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/stanislavstanislav/Desktop/IOS-8-HW-13-Sventskiy/IOS-8-HW-13-Sventskiy Stanislav/DerivedData/IOS-8-HW-13-Sventskiy Stanislav/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

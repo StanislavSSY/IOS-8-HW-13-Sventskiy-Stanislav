@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+IOS-8-HW-13-Sventskiy Stanislav in IOS-8-HW-13-Sventskiy Stanislav, no dependencies

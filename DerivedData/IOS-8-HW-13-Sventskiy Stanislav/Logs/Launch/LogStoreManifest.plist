@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1E9E8683-0E74-42BC-8F2D-4E0F3FFF72B5</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>4B832FDA-A484-4A74-802A-9FA2395CD29C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-IOS-8-HW-13-Sventskiy Stanislav-2023.03.31_17-55-47-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IOS-8-HW-13-Sventskiy Stanislav project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IOS-8-HW-13-Sventskiy Stanislav</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run IOS-8-HW-13-Sventskiy Stanislav</string>
+			<key>timeStartedRecording</key>
+			<real>701952947.74339902</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run IOS-8-HW-13-Sventskiy Stanislav</string>
+			<key>uniqueIdentifier</key>
+			<string>1E9E8683-0E74-42BC-8F2D-4E0F3FFF72B5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -16,18 +16,6 @@
 		<data>
 		U0x8EM0781fCPb62BbZIXKeDlZ4=
 		</data>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
-		<data>
-		tG+0NJBTDJU1pGyTkthn/3SEV7s=
-		</data>
-		<key>Base.lproj/Main.storyboardc/Info.plist</key>
-		<data>
-		MDrKFvFWroTb0+KEbQShBcoBvo4=
-		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
-		<data>
-		Ryl5muoU52AG9SDMK5F/lTfS9xo=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		2Ba0ZEg28XZyBrlZ0fkcJRQxGS4=
@@ -58,27 +46,6 @@
 			<key>hash2</key>
 			<data>
 			cWq7q+iQcmpSoaFGecnyPdKFEPFwRD3slgUmxFADkVs=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eGOOA9v7cm8vfK6MRci5Cka6ymlf1C3AyF6Gqr5XqPo=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PpvapAjR62rl6Ym4E6hkTgpKmBICxTaQXeUqcpHmmqQ=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RzRWo4YFlP7HrgjKkvJyBUuMZYkAIa/e4v2rEZ7esaQ=
 			</data>
 		</dict>
 	</dict>

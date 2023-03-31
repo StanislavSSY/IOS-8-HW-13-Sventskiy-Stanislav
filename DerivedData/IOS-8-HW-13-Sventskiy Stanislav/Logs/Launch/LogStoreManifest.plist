@@ -51,6 +51,51 @@
 			<key>uniqueIdentifier</key>
 			<string>1E9E8683-0E74-42BC-8F2D-4E0F3FFF72B5</string>
 		</dict>
+		<key>846BABF0-1D35-4C36-98C2-121AFE0CD5FF</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A037C67E-3D1B-4177-9D1F-BAD708066C5A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-IOS-8-HW-13-Sventskiy Stanislav-2023.03.31_18-08-02-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IOS-8-HW-13-Sventskiy Stanislav project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IOS-8-HW-13-Sventskiy Stanislav</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run IOS-8-HW-13-Sventskiy Stanislav</string>
+			<key>timeStartedRecording</key>
+			<real>701953682.06313503</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run IOS-8-HW-13-Sventskiy Stanislav</string>
+			<key>uniqueIdentifier</key>
+			<string>846BABF0-1D35-4C36-98C2-121AFE0CD5FF</string>
+		</dict>
 	</dict>
 </dict>
 </plist>

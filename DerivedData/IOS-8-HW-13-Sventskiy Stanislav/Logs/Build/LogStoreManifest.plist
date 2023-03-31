@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>4B832FDA-A484-4A74-802A-9FA2395CD29C</string>
 		</dict>
+		<key>A037C67E-3D1B-4177-9D1F-BAD708066C5A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A037C67E-3D1B-4177-9D1F-BAD708066C5A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IOS-8-HW-13-Sventskiy Stanislav project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IOS-8-HW-13-Sventskiy Stanislav</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build IOS-8-HW-13-Sventskiy Stanislav</string>
+			<key>timeStartedRecording</key>
+			<real>701953682.06477201</real>
+			<key>timeStoppedRecording</key>
+			<real>701953683.85677397</real>
+			<key>title</key>
+			<string>Build IOS-8-HW-13-Sventskiy Stanislav</string>
+			<key>uniqueIdentifier</key>
+			<string>A037C67E-3D1B-4177-9D1F-BAD708066C5A</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
